@@ -137,3 +137,78 @@ Inside of header, You will be having navbar
 
 ## Creating Tables
 
+1. A table is a way to store or format information
+2. The table tag looks like
+-   ```<Table>```
+3. A table row is one horizontal row in a table or one entry 
+- ```<tr>```
+4. A table data is for the one column 
+- ```<td>```
+5. A table header is to give heading for the column. They still reside in the table data
+- ```<th>```
+6. Caption
+- ```<Caption>```
+- Comes below the table tag
+7. Table header
+- `<thead>`
+-  Comes Below the caption
+8. Table Body
+- `<tbody>`
+- Comes Abve the thead
+9. Column Span [ Attribute ]
+- Helps to have a span in the column
+-  `colspan`
+- It is a attribute to the table data tag
+
+
+## Types of HTML Elements
+1. Block
+- Paragraphs are block elements since they take the entire row 
+2. Inline 
+- Links are inline. They do not take the whole row
+
+## Using Divs and Spans
+0. We can use spans and divs as elements
+1. Divs are block elements
+2. Spans are inline elements
+
+## Using Inputs 
+
+1. Syntax 
+- `<input type=""/>`
+- Types avaiable are | Text, Password, Date, Email, Range, File, CheckBox, Radio Button, 
+- Value is like a prompt for the box 
+- Textarea has a closing area 
+- `<textarea>`
+- Can specify the rows and the cols
+- `rows = 100 cols = 100`
+- Use a name attrible for checkbox and radio button 
+- `type = "radio`
+- `type = "checkbox"`
+
+2. Form
+- A form is an element to store all the inputs in general
+- `<form>`
+- Using forms require another programming language like Java or PHP
+
+## Using iFrame
+- `<iFrame src="_Source_">`
+- Mentions any frame
+- give a width and a height and width
+- It is like an site inside an site
+- frameborder="0"
+- Most famous website never allows iFrames
+
+## Using metatags
+- It is for SEO
+- Have 160 char for a consistent 
+- Major backbone for search ranking
+- It has a name and an author 
+- Keywords can help to make your website relative
+- Use viewport to fix width and initial-scale
+### Viewport is very much important for a mobile device
+
+
+
+
+
